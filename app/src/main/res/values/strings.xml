@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Brightness</string>
+    <string name="ori">original</string>
+    <string name="degree_20">Brightness 20</string>
+    <string name="degree_40">Brightness 40</string>
+    <string name="degree_60">Brightness 60</string>
+    <string name="degree_80">Brightness 80</string>
+    <string name="degree_80_by_code">Brightness 80 :code</string>
+    <string name="degree_100">Brightness 100</string>
+
+</resources>
